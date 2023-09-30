@@ -22,4 +22,15 @@ int main (){
 
     }
 
+    for (int i = 0;i <5; i++){
+        cout<<"HI"<<endl;
+        cout<<"Hey"<<endl;
+        continue;
+        cout<<"reply toh kerde"<<endl;
+
+    }
+
 }
+// 0,1,1,2,3,5,8,13,21
+//fibonacci series
+//n = (n-1) + (n-2)
