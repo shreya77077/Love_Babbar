@@ -13,11 +13,24 @@ int main(){
     cout << b << endl;
 
     //int b = 3;
-    int i = 8;
+    //int i = 8;
     cout <<  b << endl;
 
-  for ( ; i < 8 ; i++){
+  for ( int i = 0; i < 8 ; i++){
     cout<< "HI"<<endl;
+  }
+
+  if(1){
+    int b;
+    if(1){
+        int b;
+        if(1){
+            int b;
+            if(1){
+                cout<<b<<endl;
+            }
+        }
+    }
   }
 
 
