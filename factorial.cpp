@@ -36,3 +36,5 @@ int main(){
      return 0; 
 
 }
+
+int fifthSize = sizeof(fifth)/sizeof(int);
