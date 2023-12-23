@@ -10,6 +10,9 @@ int binarySearch(int arr[],int size,int key){
     while(start <= end){
         if(arr[mid] == key ){
             return mid;
+            //int ans = -1;
+            //ans = mid ;
+            //s = mid +1 ;
         }
 
         //go to right wala part
